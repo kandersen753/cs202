@@ -1,0 +1,19 @@
+Script started on Sat 24 Jan 2015 01:26:54 PM PST
+]0;kurt@kurt-HP-Pavilion-15-Notebook-PC: ~/cs202/project1kurt@kurt-HP-Pavilion-15-Notebook-PC:~/cs202/project1$ make project1
+g++     project1.cpp   -o project1
+]0;kurt@kurt-HP-Pavilion-15-Notebook-PC: ~/cs202/project1kurt@kurt-HP-Pavilion-15-Notebook-PC:~/cs202/project1$ ./project1
+Please input the name of the file you want to export to: testFile
+bar     bell     orange     
+bell     bell     7     
+lemon     cherry     cherry     
+bar     bar     bar     
+bell     orange     7     
+7     7     7     
+lemon     bell     lemon     
+bar     bar     bell     
+cherry     bell     bar     
+bar     7     orange     
+]0;kurt@kurt-HP-Pavilion-15-Notebook-PC: ~/cs202/project1kurt@kurt-HP-Pavilion-15-Notebook-PC:~/cs202/project1$ exit
+exit
+
+Script done on Sat 24 Jan 2015 01:27:47 PM PSTPOOPSHIT

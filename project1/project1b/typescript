@@ -1,0 +1,214 @@
+Script started on Wed 04 Feb 2015 01:34:02 PM PST
+]0;kurt@kurt-HP-Pavilion-15-Notebook-PC: ~/cs202/project1/project1bkurt@kurt-HP-Pavilion-15-Notebook-PC:~/cs202/project1/project1b$ make project1b
+g++     project1b.cpp   -o project1b
+]0;kurt@kurt-HP-Pavilion-15-Notebook-PC: ~/cs202/project1/project1bkurt@kurt-HP-Pavilion-15-Notebook-PC:~/cs202/project1/project1b$ ./project1b
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 2
+Please Input The File To Be Read From: config1
+The Data File Does Not Exist!!!
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 3
+Data Has Not Been Loaded In Yet.
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 4
+Data Can Not Be Exported Without Data Being Loaded.
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 5
+I Can Not Search For a Specific Point Since Data Has Not Been Loaded Yet!
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 1
+A New Machine Has Been Generated!
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 3
+7	10 || cherry	1 || orange	0 || 
+lemon	0 || 7	10 || bar	6 || 
+orange	0 || cherry	1 || bar	6 || 
+bell	5 || bar	6 || bell	5 || 
+lemon	0 || cherry	1 || cherry	1 || 
+cherry	1 || orange	0 || cherry	1 || 
+orange	0 || bar	6 || orange	0 || 
+cherry	1 || cherry	1 || 7	10 || 
+bell	5 || bar	6 || lemon	0 || 
+lemon	0 || lemon	0 || orange	0 || 
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 4
+Please Input a File Name to Export Data to: config1
+Your Data Has Been Sent To The File With The Name: config1
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 5
+Please Input Which Row You Would Like Printed(1-10): 8
+Please Input Which Column You Would Like Printed(1-3): 2
+The Item at Your Specific Location Is : cherry	1
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 5
+Please Input Which Row You Would Like Printed(1-10): 1
+Please Input Which Column You Would Like Printed(1-3): 1
+The Item at Your Specific Location Is : 7	10
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 6
+Well Then I Suppose We Are Done Here...
+]0;kurt@kurt-HP-Pavilion-15-Notebook-PC: ~/cs202/project1/project1bkurt@kurt-HP-Pavilion-15-Notebook-PC:~/cs202/project1/project1b$ ./project1b
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 3
+Data Has Not Been Loaded In Yet.
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 2
+Please Input The File To Be Read From: confi     1 1
+The Data File Does Not Exist!!!
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 1
+A New Machine Has Been Generated!
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 3
+7	10 || orange	0 || cherry	1 || 
+7	10 || bell	5 || bar	6 || 
+orange	0 || bar	6 || orange	0 || 
+bar	6 || 7	10 || cherry	1 || 
+lemon	0 || orange	0 || cherry	1 || 
+bell	5 || 7	10 || bell	5 || 
+lemon	0 || lemon	0 || 7	10 || 
+bar	6 || bar	6 || lemon	0 || 
+7	10 || orange	0 || cherry	1 || 
+bell	5 || cherry	1 || lemon	0 || 
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 2
+Please Input The File To Be Read From: config1
+Your File Has Been Read In From: config1
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 3
+7	10 || cherry	1 || orange	0 || 
+lemon	0 || 7	10 || bar	6 || 
+orange	0 || cherry	1 || bar	6 || 
+bell	5 || bar	6 || bell	5 || 
+lemon	0 || cherry	1 || cherry	1 || 
+cherry	1 || orange	0 || cherry	1 || 
+orange	0 || bar	6 || orange	0 || 
+cherry	1 || cherry	1 || 7	10 || 
+bell	5 || bar	6 || lemon	0 || 
+lemon	0 || lemon	0 || orange	0 || 
+WELCOME TO SLOTS!!!!!!!
+Please make a selection from the following list
+1. Populate New Slot Machine
+2. Read in an Existing Machine Configuration.
+3. Print current configuration to screen.
+4. Print Current Configuration to File.
+5. Print Specific Reel and Stop Location.
+6. Exit
+Please Enter Your Selection Here ---> 6
+Well Then I Suppose We Are Done Here...
+]0;kurt@kurt-HP-Pavilion-15-Notebook-PC: ~/cs202/project1/project1bkurt@kurt-HP-Pavilion-15-Notebook-PC:~/cs202/project1/project1b$ exit
+exit
+
+Script done on Wed 04 Feb 2015 01:35:44 PM PST
